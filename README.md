@@ -1,4 +1,4 @@
-#### Olá! Eu sou a Jamilly, mas pode me chamar de Mille ☁️
+#### Olá! Eu sou a Jamilly, mas podem me chamar de Mille ☁️
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=millefy&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
